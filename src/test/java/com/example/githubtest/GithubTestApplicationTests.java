@@ -11,6 +11,7 @@ public class GithubTestApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("so happy for first github ");
 	}
 
 }
